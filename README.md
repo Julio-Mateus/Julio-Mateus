@@ -9,7 +9,7 @@ const Julio-Mateus = {
 ```
 
 You can find me  :
-- [Blog](https://portafoliojcmateus.netlify.app)
+- [Blog](https://portfolio-website-jcmateus.netlify.app)
 - [Twitter](https://twitter.com/JulioMateusdev1)
 - [Linkedln](https://www.linkedin.com/in/julio-mateus-925373224/)
 - [Instagram](https://www.instagram.com/jcmatteus/)
