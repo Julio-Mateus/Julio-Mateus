@@ -3,7 +3,7 @@
 ```js
 const Julio-Mateus = {
   pronouns: 'he' | 'him',
-  code: [JavaScript, Java, Python, C#, HTML, CSS],
+  code: [Kotlin, JavaScript, Java, Python, C#, HTML, CSS],
   tools: [React, Node, Unity],
 }
 ```
